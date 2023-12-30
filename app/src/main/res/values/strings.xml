@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PinPuk</string>
+    <string name="action_settings">Ustawienia</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="Add_New">Dodaj Karte</string>
+    <string name="edit">Edytuj Karte</string>
+    <string name="delete">Usun karte</string>
+    <string name="title_activity_display_contact">DisplayContact</string>
+    <string name="Nr_karty">Nr_karty</string>
+    <string name="Pin">Pin</string>
+    <string name="Puk">Puk</string>
+    <string name="NrTel">NrTel</string>
+    <string name="mgpo">MGPO</string>
+    <string name="konwoj">KONWOJ</string>
+    <string name="deleteRecord">Are you sure, you want to delete it.</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="save">Zapisz</string>
+</resources>
